@@ -1,0 +1,17 @@
+;FileName;Group;Age;Sex;Strain;Tissue;Treatment;GEO_Accesion;ShortName
+1;GSM1520965_Untreated_4-weeks_1.CEL;C.4W;4 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 4 weeks of age #1;GSM1520965;C.4W.1
+2;GSM1520966_Untreated_4-weeks_2.CEL;C.4W;4 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 4 weeks of age #2;GSM1520966;C.4W.2
+3;GSM1520967_Untreated_4-weeks_3.CEL;C.4W;4 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 4 weeks of age #3;GSM1520967;C.4W.3
+4;GSM1520968_Untreated_4-weeks_4.CEL;C.4W;4 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 4 weeks of age #4;GSM1520968;C.4W.4
+5;GSM1520969_Untreated_4-weeks_5.CEL;C.4W;4 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 4 weeks of age #5;GSM1520969;C.4W.5
+6;GSM1520970_Control_vehicle_12-weeks_1.CEL;C.12W;12 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 12 weeks of age with control vehicle #1;GSM1520970;C.12W.1
+7;GSM1520971_Control_vehicle_12-weeks_2.CEL;C.12W;12 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 12 weeks of age with control vehicle #2;GSM1520971;C.12W.2
+8;GSM1520972_Control_vehicle_12-weeks_3.CEL;C.12W;12 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 12 weeks of age with control vehicle #3;GSM1520972;C.12W.3
+9;GSM1520973_Control_vehicle_12-weeks_4.CEL;C.12W;12 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 12 weeks of age with control vehicle #4;GSM1520973;C.12W.4
+10;GSM1520974_Control_vehicle_12-weeks_5.CEL;C.12W;12 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 12 weeks of age with control vehicle #5;GSM1520974;C.12W.5
+11;GSM1520975_MET_and_VA_12-weeks_1.CEL;T.12W;12 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 12 weeks of age with L-methionine and valproic acid #1;GSM1520975;T.12W.1
+12;GSM1520976_MET_and_VA_12-weeks_2.CEL;T.12W;12 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 12 weeks of age with L-methionine and valproic acid #2;GSM1520976;T.12W.2
+13;GSM1520977_MET_and_VA_12-weeks_3.CEL;T.12W;12 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 12 weeks of age with L-methionine and valproic acid #3;GSM1520977;T.12W.3
+14;GSM1520978_MET_and_VA_12-weeks_4.CEL;T.12W;12 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 12 weeks of age with L-methionine and valproic acid #4;GSM1520978;T.12W.4
+15;GSM1520979_MET_and_VA_12-weeks_5.CEL;T.12W;12 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 12 weeks of age with L-methionine and valproic acid #5;GSM1520979;T.12W.5
+16;GSM1520980_MET_and_VA_12-weeks_6.CEL;T.12W;12 weeks of age;male;DBA/2J;cochlea;Mouse cochlea of 12 weeks of age with L-methionine and valproic acid #6;GSM1520980;T.12W.6
